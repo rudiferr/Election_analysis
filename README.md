@@ -1,4 +1,7 @@
 # "election-analysis" Week 3 Challenge
+### Tools Used
+* Microsoft Excel
+* Python Scripting
 ## Overview of the Project / Election Audit
 <!-- Explain the purpose of this election audit analysis. -->
 The purpose of this election audit analysis is to confirm the resutls of a local congressional elections. By writing a script that accesses the supplied .csv and quickly reads through the collected ballots, we can quickly determine various statistics, such as:
